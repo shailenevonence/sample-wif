@@ -1,4 +1,4 @@
-#To test your GitHub Action CI/CD is working use the below code
+##To test your GitHub Action CI/CD is working use the below code
 
 #main.yaml
 name: Check Compute List
